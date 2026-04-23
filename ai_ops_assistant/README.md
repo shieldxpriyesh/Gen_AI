@@ -46,7 +46,7 @@ cp .env.example .env
 
 **Required Variable:**
 ```ini
-OPENAI_API_KEY=sk-proj-...  # Your actual OpenAI API Key
+OPENAI_API_KEY=sk-proj-...  # Your API Key
 ```
 
 ---
